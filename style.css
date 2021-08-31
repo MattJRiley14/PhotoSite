@@ -17,8 +17,11 @@ p {
   border-bottom: 5px solid #ccc;
   padding-bottom: 10px;
 
+  /* Width of two images */
   /* 22.5 * 2 = 45 */
+  /* Width between two images */
   /* 1.25 * 2 = 2.5 */
+  /* Width of paragraph element (AKA Bottom border) */
   /* 45 + 2.5 = 47.5 */
   width: 47.5%;
 
